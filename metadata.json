@@ -1,0 +1,8 @@
+{
+  "name": "CalorieAI",
+  "description": "A smart calorie and macro tracker powered by Gemini AI. Log meals via text or photo, track your daily progress, and export your data.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
